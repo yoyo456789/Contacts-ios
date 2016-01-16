@@ -1,3 +1,3 @@
-# Contacts-ios
+# Contacts-iOS
 
-a simple ios contacts app to start ios study.
+a simple iOS contacts app to start ios study.
